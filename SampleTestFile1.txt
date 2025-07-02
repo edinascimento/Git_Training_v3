@@ -4,3 +4,4 @@ Text for sample test file one
 
 This is Caparison lecture
 This is Stach lecture, Change in File 1
+This is Stash lecture, Change for untracked file in File
